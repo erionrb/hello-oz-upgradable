@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Upgradable Box
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic usage of upgradable contracts with **Hardhat** and **Openzeppelin**
 
-Try running some of the following tasks:
+You can find those contracts in this tutorial already verified at:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+[Proxy](0xf73C0E1c09FA0F4Cfe237A0ff02b4BcEd91B2640)
+
+[Box Implementation](https://mumbai.polygonscan.com/address/0x40735b77F20757af04884Bc02187D0F93907A9AD#code)
+
+**Obs: Repository under construction**
